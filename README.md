@@ -11,11 +11,10 @@ It demonstrates **full-duplex communication**, allowing clients to send and rece
 ---
 
 ## ✨ Features
-
-* ⚡ Real-time messaging using WebSockets
-* 👥 Multi-client support (broadcast messages)
-* 🌐 Simple and clean frontend UI
-* 🔄 Event-driven backend architecture
+- ⚡ Real-time communication using WebSockets  
+- 🔁 Echo server (responds to client messages instantly)  
+- 🌐 Simple frontend UI  
+- 🔄 Event-driven backend architecture
 
 ---
 
