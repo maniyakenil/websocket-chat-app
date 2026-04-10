@@ -80,17 +80,6 @@ http://localhost:8080
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
-```
-![Client](screenshots/Hoppscotch.png)
-![Server](screenshots/Server Listening.png)
-```
-
----
-
 ## 🧠 Key Concepts Learned
 
 * WebSocket protocol (persistent connection)
